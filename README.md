@@ -101,4 +101,4 @@ This repo is a personal ML study log — each notebook is a focused experiment, 
 
 ---
 
-*More notebooks added as the journey continues.joamonf@proton.me*
+*More notebooks added as the journey continues.*
