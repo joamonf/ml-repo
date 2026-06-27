@@ -46,7 +46,7 @@ This is a hands-on ML learning journal. Each notebook isolates a concept, algori
 | 109 | [109 Log reg iris dataset.ipynb](109%20Log%20reg%20iris%20dataset.ipynb) | Iris (sklearn) | Logistic Regression, multiclass |
 | 110 | [110 KNN Classifier -breast cancer dataset.ipynb](110%20KNN%20Classifier%20-breast%20cancer%20dataset.ipynb) | Breast Cancer Wisconsin | KNN Classifier, scaling, best-k selection |
 | 112 | [112 KNN classifier gene expression.ipynb](112%20KNN%20classifier%20gene%20expression.ipynb) | Gene Expression | KNN Classifier, high-dimensional data |
-
+| 113 | [113 Decision tree iris dataset.ipynb](113%20Decision_tree_iris_dataset.ipynb) | Iris (sklearn) | Decision Tree, KNN, Logistic Regression, GridSearchCV, CV comparison |
 ---
 
 ## 🛠️ Stack
