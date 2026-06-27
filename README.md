@@ -79,9 +79,8 @@ Scikit-learn concepts — pipelines, leakage (103)
     ↓
 Regression — Linear → Polynomial → Regularization → KNN (104–107, 111)
     ↓
-Classification — Logistic Regression → KNN (108–110, 112)
+Classification — Logistic Regression → KNN → Decision Tree (108–110, 112–113)
 ```
-
 ---
 
 ## 🚀 Getting Started
