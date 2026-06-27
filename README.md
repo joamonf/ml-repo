@@ -38,7 +38,7 @@ This is a hands-on ML learning journal. Each notebook isolates a concept, algori
 
 ---
 
-### 🃏 Classification
+### 🎯 Classification
 
 | # | Notebook | Dataset | Techniques |
 |---|----------|---------|------------|
