@@ -18,7 +18,7 @@ This is a hands-on ML learning journal. Each notebook isolates a concept, algori
 
 ---
 
-### 📐 Scikit-learn — Concepts & Reference
+### ⚙️ Scikit-learn — Concepts & Reference
 
 | # | Notebook | Topics |
 |---|----------|--------|
@@ -38,7 +38,7 @@ This is a hands-on ML learning journal. Each notebook isolates a concept, algori
 
 ---
 
-### 🎯 Classification
+### 🃏 Classification
 
 | # | Notebook | Dataset | Techniques |
 |---|----------|---------|------------|
